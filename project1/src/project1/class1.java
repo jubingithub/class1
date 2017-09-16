@@ -10,7 +10,7 @@ public class class1 {
 		System.out.println("enter usrname :");
 		String username = ui.nextLine();
 		obj.text(username);
-
+System.out.println("hello");
 	}
 
 }
